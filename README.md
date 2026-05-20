@@ -1,17 +1,1 @@
-# taskmanager
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Task Manage app .people have multiple task do in each day . So i create this app for tracking each days Task Properly.By this app, people can set their priority to do specific task. There are three type of priority. These are low, medium  and High priority.People are not only set priority but also they can set a specific schedual to do.
